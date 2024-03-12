@@ -88,10 +88,10 @@ group by gender;
 
 The analysis results are summarized as follows:
 
-1.There is a clear trend where higher educational levels correspond to higher average salaries. This suggests a strong correlation between the level of education and salary, indicating that higher educational attainment is associated with higher earning potential. 
+1. There is a clear trend where higher educational levels correspond to higher average salaries. This suggests a strong correlation between the level of education and salary, indicating that higher educational attainment is associated with higher earning potential.
 2. The analysis also indicates a gender pay gap across board with male employees earning on average more than female employees. This gender pay gap highlights a disparity that is commonly observed in various industries and regions.
-3. There is a notable difference in salary levels among different ethnic groups with Whites and Asians earning the highest than other ethinicities in most countries. 
-4. Blacks are underrepresented in the U.K and Australia.
+3. There is a notable difference in salary levels among different ethnic groups with Whites and Asians earning the highest than other ethinicities in most countries.
+4.  Blacks are underrepresented in the U.K and Australia.
 
 ### Recommendations
 
