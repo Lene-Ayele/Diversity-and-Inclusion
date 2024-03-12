@@ -49,6 +49,7 @@ The EDA involved exploring the data to answer key questions, such as:
 - Is there evidence of a gender pay gap within the company?
 
 ### Data Analysis
+---
 
 ```mysql
 
