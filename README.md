@@ -19,6 +19,7 @@
 
 This data analysis aims to provide insights into diversity and inclusion of a multinational technology compnay over the past year. By analyzing various aspects of the data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the comapny's workplace divesity.
 
+
 ### Data Source
 
 The primary dataset used for this analysis is the "salary.csv" file extracted from https://kaggle.com/datasets , containing detailed salary information from various countries across the globe.
@@ -92,6 +93,12 @@ The analysis results are summarized as follows:
 2. The analysis also indicates a gender pay gap across board with male employees earning on average more than female employees. This gender pay gap highlights a disparity that is commonly observed in various industries and regions.
 3. There is a notable difference in salary levels among different ethnic groups with Whites and Asians earning the highest than other ethinicities in most countries.
 4.  Blacks are underrepresented in the U.K and Australia.
+
+
+
+![Dashboard](https://github.com/Eleya1/Diversity-and-Inclusion/assets/156113418/fd55834e-7822-48b5-b4e9-ce8d1ec96ae8)
+
+
 
 ### Recommendations
 
