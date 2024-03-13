@@ -90,9 +90,9 @@ group by gender;
 
 The analysis results are summarized as follows:
 
-1. There is a clear trend where higher educational levels correspond to higher average salaries. This suggests a strong correlation between the level of education and salary, indicating that higher educational attainment is associated with higher earning potential.
-2. The analysis also indicates a gender pay gap across board with male employees earning on average more than female employees. This gender pay gap highlights a disparity that is commonly observed in various industries and regions.
-3. There is a notable difference in salary levels among different ethnic groups with Whites and Asians earning the highest than other ethinicities in most countries.
+1. There is a clear trend where higher educational levels correspond to higher average salaries. This observation implies a strong correlation between education level and salary, indicating that individuals with advanced education tend to have greater earning potential.
+2. The analysis further revelas a gender pay gap across board, with male employees earning, on average, higher salaries than their female counterparts. Thisdiscrepancy highlights a disparity that is commonly observed in various industries and regions.
+3. There is a notable difference in salary levels across different ethnic groups, with Whites and Asian individuals typically earning higher incomes compared to other ethnicities in many countries.
 4.  Blacks are underrepresented in the U.K and Australia.
 
 
@@ -115,4 +115,4 @@ Based on the analysis, we recommend the following actions:
 
 ### Limitations
 
-I have enhanced the 'race' column by consolidating entries into distinct ethnicities based on racial categories. This measure was taken to streamline the extensive list of races, as certain ethnicities can be classified under a single race. For instance, individuals of Chinese, Korean, and other Asian descent were grouped under 'Asian', while those of Australian, White, and Welsh descent were categorized as 'White'. Furthermore, among the 6685 rows of data, four salary entries were indicated in hundreds, while the remainder were in hundreds of thousands, suggesting an assumption that salaries are represented on an annual basis. To ensure consistency and prevent data skewing during analysis, I adjusted the four entries by adding zeros to align them with the other entries.
+I enhanced the 'race' column by consolidating entries into distinct ethnicities based on racial categories. This measure was taken to streamline the extensive list of races, as certain ethnicities can be classified under a single race. For instance, individuals of Chinese, Korean, and other Asian descent were grouped under 'Asian', while those of Australian, White, and Welsh descent were categorized as 'White'. Furthermore, among the 6685 rows of data, four salary entries were indicated in hundreds, while the remainder were in hundreds of thousands, suggesting an assumption that salaries are represented on an annual basis. To ensure consistency and prevent data skewing during analysis, I adjusted the four entries by adding zeros to align them with the other entries.
