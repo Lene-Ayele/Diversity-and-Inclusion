@@ -50,14 +50,8 @@ The EDA involved exploring the data to answer key questions, such as:
 
 ### Data Analysis
 ---
-
+*What is the representation of gender and race in leadership positions within the company?*
 ```mysql
-
-SELECT 
-    country, AVG(salary) AS average_salary
-FROM
-    salary_dataset
-GROUP BY country;
 
 SELECT 
     job_rank, race, COUNT(*) AS count_leadership
@@ -67,23 +61,40 @@ WHERE
     job_rank = 'Board Level'
         OR job_rank = 'Senior Level'
 GROUP BY job_rank , race;
+```
+*Are there any significant variations in salary levels based on the country?*
+```mysql
+
+SELECT 
+    country, AVG(salary) AS average_salary
+FROM
+    salary_dataset
+GROUP BY country;
+```
+*Is there evidence of a gender pay gap within the company?*
+```mysql
+
+SELECT gender, avg(salary) as avaerage_salary
+from salary_dataset
+group by gender;
+```
+*Are there disparities in salary levels among employees belonging to different racial or ethnic groups?*
+```mysql
 
 SELECT 
     race, AVG(salary) AS average_salary
 FROM
     salary_dataset
 GROUP BY race;
+```
+*Are there differences in salaries based on educational level?*
+```mysql
 
 SELECT 
     education_level, AVG(salary) AS average_salary
 FROM
     salary_dataset
 GROUP BY education_level;
-
-SELECT gender, avg(salary) as avaerage_salary
-from salary_dataset
-group by gender;
-
 ```
 
 ### Results
