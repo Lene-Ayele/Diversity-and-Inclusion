@@ -44,13 +44,13 @@ The EDA involved exploring the data to answer key questions, such as:
 
 - Are there any significant variations in salary levels based on the country?
 - Are there disparities in salary levels among employees belonging to different racial or ethnic groups?
-- What is the representation of gender and race in leadership positions within the company?
+- What is the representation of various ethnicities in leadership positions within the company?
 - Are there differences in salaries based on educational level?
 - Is there evidence of a gender pay gap within the company?
 
 ### Data Analysis
 ---
-*What is the representation of gender and race in leadership positions within the company?*
+*What is the representation of various ethnicities in leadership positions within the company?*
 ```mysql
 
 SELECT 
