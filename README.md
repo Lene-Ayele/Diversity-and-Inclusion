@@ -102,7 +102,7 @@ GROUP BY education_level;
 The analysis results are summarized as follows:
 
 1. There is a clear trend where higher educational levels correspond to higher average salaries. This observation implies a strong correlation between education level and salary, indicating that individuals with advanced education tend to have greater earning potential.
-2. The analysis further revelas a gender pay gap across board, with male employees earning, on average, higher salaries than their female counterparts. Thisdiscrepancy highlights a disparity that is commonly observed in various industries and regions.
+2. The analysis further revelas a gender pay gap across board, with male employees earning, on average, higher salaries than their female counterparts. This discrepancy highlights a disparity that is commonly observed in various industries and regions.
 3. There is a notable difference in salary levels across different ethnic groups, with Whites and Asian individuals typically earning higher incomes compared to other ethnicities in many countries.
 4.  Blacks are underrepresented in the U.K and Australia.
 
