@@ -22,7 +22,7 @@ This data analysis aims to provide insights into diversity and inclusion of a fi
 
 ### Data Source
 
-The primary dataset used for this analysis is the "salary.csv" file extracted from https://kaggle.com/datasets , containing detailed salary information from various countries across the globe.
+The primary dataset used for this analysis is the "salary.csv" file extracted from https://kaggle.com, containing detailed salary information from various countries across the globe.
 
 ### Tools
 
