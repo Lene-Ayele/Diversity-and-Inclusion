@@ -42,34 +42,12 @@ During the data preparation phase, the following tasks were performed:
 
 The EDA involved exploring the data to answer key questions, such as:
 
-- Are there any significant variations in salary levels based on the country?
 - Are there disparities in salary levels among employees belonging to different racial or ethnic groups?
-- What is the representation of various ethnicities in leadership positions within the company?
 - Are there differences in salaries based on educational level?
 - Is there evidence of a gender pay gap within the company?
 
 ### Data Analysis
----
-*What is the representation of various ethnicities in leadership positions within the company?*
-```mysql
 
-SELECT 
-    job_rank, race, COUNT(*) AS count_leadership
-FROM
-    salary_dataset
-WHERE
-    job_rank = 'Board Level'
-        OR job_rank = 'Senior Level'
-GROUP BY job_rank , race;
-```
-*Are there any significant variations in salary levels based on the country?*
-```mysql
-
-SELECT 
-    country, AVG(salary) AS average_salary
-FROM
-    salary_dataset
-GROUP BY country;
 ```
 *Is there evidence of a gender pay gap within the company?*
 ```mysql
