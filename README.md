@@ -40,7 +40,7 @@ During the data preparation phase, the following tasks were performed:
 
 ### Exploratory Data Analysis
 
-The EDA involved exploring the data to answer key questions, such as:
+The EDA involved exploring the data to answer these key questions:
 
 - Are there disparities in salary levels among employees belonging to different racial or ethnic groups?
 - Are there differences in salaries based on educational level?
