@@ -106,11 +106,13 @@ The analysis results are summarized as follows:
 3. There is a notable difference in salary levels across different ethnic groups, with Whites and Asian individuals typically earning higher incomes compared to other ethnicities in many countries.
 4.  Blacks are underrepresented in the U.K and Australia.
 
+![Gender Pay Gap 1](https://github.com/Lene-Ayele/Diversity-and-Inclusion/assets/156113418/f61485ec-1d9e-42cd-96d8-e67d3cfa4d1f)
 
 
-![Dashboard](https://github.com/Eleya1/Diversity-and-Inclusion/assets/156113418/fd55834e-7822-48b5-b4e9-ce8d1ec96ae8)
 
 
+
+![salary_disparities](https://github.com/Lene-Ayele/Diversity-and-Inclusion/assets/156113418/705ede43-d2e3-488b-add1-b805e33a2e77)
 
 ### Recommendations
 
