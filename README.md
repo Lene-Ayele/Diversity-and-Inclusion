@@ -90,7 +90,8 @@ The analysis results are summarized as follows:
 
 
 
-![salary_disparities](https://github.com/Lene-Ayele/Diversity-and-Inclusion/assets/156113418/705ede43-d2e3-488b-add1-b805e33a2e77)
+
+![education_level](https://github.com/Lene-Ayele/Diversity-and-Inclusion/assets/156113418/ce71be1a-7ba7-4264-9840-feaa11a69281)
 
 
 
