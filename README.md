@@ -17,7 +17,7 @@
 
 ### Project Overview
 
-This data analysis aims to provide insights into diversity and inclusion of a fictional multi-national technology compnay over the past year. By analyzing various aspects of the data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the comapny's workplace divesity.
+This data analysis aims to provide insights into diversity and inclusion aspects of a fictional multi-national technology compnay over the past year. By analyzing various aspects of the data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the comapny's workplace divesity.
 
 
 ### Data Source
